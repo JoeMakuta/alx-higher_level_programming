@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+sum = 50
+
 def add(a, b):
     """My addition function
 
